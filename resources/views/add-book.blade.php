@@ -47,7 +47,7 @@
                             <label for="number_of_pages">No. of pages</label>
                             <input class="form-control" type="text" id="number_of_pages" name="number_of_pages">
                         </div>
-                        <button class="btn btn-primary mt-3" id="buttonSubmit">Login</button>
+                        <button class="btn btn-primary mt-3" id="buttonSubmit">Add</button>
                         <p class="text-danger mt-2"></p>
                     </div>
                 </div>
